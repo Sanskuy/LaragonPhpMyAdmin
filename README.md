@@ -29,3 +29,11 @@ duplicate it and rename it to config.inc open the file and search for : ~
 $cfg['Servers'][$i]['AllowNoPassword'] = false;~
 and set it to true : ~ $cfg['Servers'][$i]['AllowNoPassword'] = true;~
 save the file and DONE you can login using username if : root
+
+=================================================================================
+The latest laragon have not included phpMyAdmin by default. So that you will not able to access localhost/phpmyadmin. 
+Now if you want to use phpMyAdmin in Laragon please follow below steps : 
+(1.)download latest phpmyadmin zip 
+(2.)extract to path/to/laragon/etc/apps 
+(3.)the folder name must be phpMyAdmin 
+(4.)restart Laragon and enjoy
