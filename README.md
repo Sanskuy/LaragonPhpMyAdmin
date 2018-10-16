@@ -1,0 +1,2 @@
+# LaragonPhpMyAdmin
+laragon-phpmyadmin
