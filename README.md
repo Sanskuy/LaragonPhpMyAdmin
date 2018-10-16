@@ -19,9 +19,10 @@ You can add phpMyAdmin easily yourself:
 https://forum.laragon.org/topic/98/how-to-update-phpmyadmin
 
 =================================================================================
-First download the phpMyAdmin form here : https://www.phpmyadmin.net/downloads/
-then extract the downloaded (rar,zip) to : {INSTALLATION_PATH}\laragon\etc\apps\rename the folder to phpMyAdmin
-now go to http://localhost/phpmyadmin, and your there
+download the phpMyAdmin from here : https://wwww.phpmyadmin.net/downloads then extract the downloaded 
+(rar,zip) to : {INSTALLATION_PATH}\laragon\etc\apps\rename the folder to phpMyAdmin now go to 
+http://localhost/phpmyadmin, and your there
+
 =================================================================================
 if you want to login to the phpMyAdmin you need to search in the phpmyadmin folder for a file called config.sample.inc and
 duplicate it and rename it to config.inc open the file and search for : ~
